@@ -1,0 +1,133 @@
+body {
+	background-color: #1B1B1B;
+	color:white;
+	padding:2px;
+	border: solid #70D631 3px;
+	border-radius: 9px;
+}
+.labrynth {
+	color: #1B1B1B;
+}
+.labrynth:hover {
+	color: red;
+}
+.Intro {
+	text-align: center;
+	left:25%;
+	right:25%;
+	font-size: 55px;
+	position:fixed;
+	border-left: dotted #70D631 1px;
+	color: red;
+}
+
+.Title {
+	
+	border-left: dotted 2px #70D631 ;
+		border-right: dotted 2px #70D631;
+	heigh: 30 px;
+	width: 50%;
+	position: relative;
+	top: 90%;
+	left: 40%;
+	border-radius: 5px;
+	right: 25%;
+	
+}
+
+.Links{
+	color: #F3EFE0;
+}
+.Links:hover{
+	color:grey;
+}
+.c0nsumpti0n_Gif {
+	float: Right;
+	border-left: #70D631 solid 3px;
+	border-top: #70D631 solid 3px;
+	border-bottom:#70D631 solid 3px;
+	padding: 3px;
+	margin-right: 0;
+	overflow: show;
+	border-right: clear;
+	border-radius: 5px;
+
+	
+}
+.Monster_Gif {
+	height:15%;
+	width: 15%;
+	border-right: #70D631 solid 3px;
+	border-top: #70D631 solid 3px;
+	border-bottom:#70D631 solid 3px;
+	padding: 3px;
+	margin-right: 0;
+	overflow: show;
+	border-right: clear;
+	border-radius: 5px;
+
+}
+.Contact {
+	
+	border: dotted 1px red;
+	height: 30 px;
+	width: 50%;
+	position: relative;
+	top: 90%;
+	left: 25%;
+	right: 25%;
+}
+.Labels {
+	border: dotted white 2px;
+	padding: 5px;
+}
+/* Dragon AI Purpose Title*/
+.Purpose {
+	border-top: #70D631 solid 3px;
+	width:  220px;
+	padding-right: 0px;
+	border-radius: 5px;
+	border-right: #70D631 solid 3px;
+}
+/* Dragon AI Purpose Text 1 */
+.Purpose_1 {
+	border-bottom: #70D631 solid 3px;
+	overflow:hide;
+	width: 85%;
+	padding-right: 0px;
+	border-radius: 5px;
+	border-top: #70D631 solid 3px;
+}
+/*Savior*/
+.Savior {
+	color: #1B1B1B;
+}
+/* Warning */
+.Warning {
+	height: 5px;
+	color: #0C8E5C;
+	bold;
+	text-align: center;
+}
+/*Chatroom*/
+.Chatroom {
+	display: Inline-block;
+	position: Fixed;
+	float: Right;
+}
+.LinksGreen{
+	color: #70D631;
+}
+.LinksGreen:hover{
+	color:#D72BD3;
+}
+.LinksPink{
+	color:#D72BD3;
+}
+.LinksPink:hover{
+	color:#70D631;
+}
+/*Golem Sizing Maple Page */
+.Golem {
+	width: 90%;
+}

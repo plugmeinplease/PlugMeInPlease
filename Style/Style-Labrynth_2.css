@@ -1,0 +1,287 @@
+body {
+	background-image: url('https://i.imgur.com/snwm8Xe.jpg');
+	color: Red;
+}
+
+.Start {
+	Position: Absolute;
+	left: 45px;
+	width: 50px;
+	top:0px;
+	height: 45px;
+	background-color: #70D631;
+
+	text-align:center;
+	color:Red;
+}
+/*Ladder */
+.Ladder {
+	Position: Absolute;
+	top: 463px;
+	left: 18%;
+	color: black;
+}
+
+.Ladder:Hover{
+	Color: Red;
+}
+/* Arrows */
+.Arrow {
+	Position: Absolute;
+	top: 28px;
+	left: 13%;
+	color: black;
+}
+
+.Arrow:Hover{
+	Color: Red;
+}
+.Arrow_1 {
+		Position: Absolute;
+	top: 62px;
+	left: 36%;
+	color: black;
+}
+.Arrow_1:Hover {
+	Color: Red;
+}
+.Arrow_2 {
+		Position: Absolute;
+	top: 500px;
+	left: 11.5%;
+	color: black;
+}
+.Arrow_2:Hover {
+	Color: Red;
+}
+/* X */
+.X {
+	Position: Absolute;
+	top: 59px;
+	left: 10.6%;
+	color: black;
+}
+.X:Hover{
+	Color: Red;
+}
+/*!Important*/
+	/* Text Box*/
+.Text {
+	Position: Absolute;
+	Width: 500px;
+	height;200px;
+	top: 25%;
+	left: 25%;
+	background-color: White;
+	text-align: center;
+	border: red 5px solid;
+}
+
+.OK {
+	background-color: white;
+	border: 2px solid black;
+	color: red;
+}
+.Climb {
+	background-color: white;
+	border: 2px solid black;
+	color: red;
+}
+	 /*Power, pickup item, etc */
+.Power {
+	background-color: white;
+	border: 2px solid black;
+	color: red;
+}
+.Continue {
+	background-color: white;
+	border: 2px solid black;
+	color: red;
+	position: Absolute;
+	width: 75px;
+	text-align: center;
+	height: 25px;
+	left: 40%;
+	top: 20%;
+}
+/* Note */
+.Note {
+	Position: Absolute;
+	top: 383px;
+	left: 15%;
+	color: black;
+}
+.Note:Hover{
+	Color: Red;
+}
+.Note_2{
+	Position: Absolute;
+	top: 525px;
+	left: 46.5%;
+	color: black;
+	transform: rotate(90deg);
+	font-size: xx-small;
+}
+.Note_2:Hover{
+	Color: Red;
+}
+/* Found Body */
+
+.Body {
+	Position: Absolute;
+	top: 350px;
+	left: 14.8%;
+	color: black;
+}
+.Body:Hover {
+	Color: Red;
+}
+
+/* Sound */
+.Sound {
+	Position: Absolute;
+	top: 160px;
+	left: 20%;
+	color: black;
+}
+.Sound:Hover {
+	color:Red;
+}
+/*Door */
+
+.Door {
+		Position: Absolute;
+	top: 295px;
+	left: 75.2%;
+	color: Black ;
+}
+.Door:Hover{
+	color:Red;
+}
+.Door_2 {
+		Position: Absolute;
+	top: 670px;
+	left: 73%;
+	color: Black ;
+}
+.Door_2:Hover{
+	color:Red;
+}
+.Door_3 {
+		Position: Absolute;
+	top: 665px;
+	left: 5.4%;
+	color: Black;
+}
+.Door_3:hover {
+	color:red;
+}
+.Blacksmith {
+		Position: Absolute;
+	top: 335px;
+	left: 46%;
+	color: Black;
+}
+.Blacksmith:hover {
+	color:red;
+}
+/*savior */
+.Savior {
+	Position: Absolute;
+	top: 350px;
+	left: 80%;
+	color: black ;
+}
+.Savior:hover {
+	color:red;
+}
+
+/* Survivor */
+.Survivor {
+		Position: Absolute;
+	top: 480px;
+	left: 89%;
+	color: Black;
+}
+.Survivor:hover {
+	color:red;
+}
+.Survivor_2 {
+		Position: Absolute;
+	top: 480px;
+	left: 67%;
+	color: Black;
+}
+.Survivor_2:hover {
+	color:red;
+}
+.Survivor_3 {
+		Position: Absolute;
+	top: 543px;
+	left: 54.5%;
+	color: Black;
+}
+.Survivor_3:hover {
+	color:red;
+}
+.Survivor_4 {
+		Position: Absolute;
+	top: 665px;
+	left: 4.5%;
+	color: Black;
+}
+.Survivor_4:hover {
+	color:red;
+}
+	/*survivor img */
+.Survivor_img {
+	width: 150px;
+	height: 150px;
+	border: solid black 3px;
+}
+/*Warning Screen */
+.Warning {
+		Position: Absolute;
+	top: 78px;
+	left: 56%;
+	color: black;
+}
+.Warning:hover {
+	color:red;
+}
+.Evie {
+		Position: Absolute;
+	top: 415px;
+	left: 66%;
+	color: black;
+}
+.Evie:hover {
+	color:red;
+}
+.Mistake {
+		Position: Absolute;
+	top: 15px;
+	left: 77.5%;
+	color: black;
+}
+.Mistake:hover {
+	color:red;
+}
+.Else {
+		Position: Absolute;
+	top: 380px;
+	left: 52.3%;
+	color: black;
+}
+.Else:hover {
+	color:red;
+}
+.Code {
+		Position: Absolute;
+	top: 436px;
+	left: 33.3%;
+	color: black;
+}
+.Code:hover {
+	color:red;
+}

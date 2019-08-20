@@ -1,0 +1,6 @@
+body {
+	background-image: url("
+	color:white;
+	padding:8px;
+	border: solid white 2px;
+}

@@ -1,0 +1,35 @@
+
+body {
+	background-color: Black;
+	color: White;
+	padding:8px;
+	border: solid white 2px;
+}
+
+.friend {
+	color: red;
+	border: solid red 3px;
+	}
+	.decline {
+	float: right;
+	float: top;
+	font-size: 50px;
+	color: white;
+	padding: 4px;
+	border: solid white 2px;
+	background-color: red;
+	
+}
+.accept {
+	float: right;
+	float: top;
+	font-size: 50px;
+	color: white;
+	padding: 4px;
+	border: solid white 2px;
+	background-color: Green;
+	
+}
+.c0nsumpti0n-41 {
+	border: solid red 5px;
+}

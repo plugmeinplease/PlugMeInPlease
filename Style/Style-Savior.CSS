@@ -1,0 +1,45 @@
+body {
+		background-color: Black;
+}
+.Help {
+	top: 18%;
+	text-align:Center;
+	left:25%;
+	right:25%;
+	font-size: 20px;
+	position:fixed;
+	border: solid red 2px;
+	color: red;
+}
+
+
+.Dog {
+	height: 5px;
+	padding-top: 3px;\
+	width: 1px;
+	text-align: center;
+	left:5%;
+	top:50%;
+	transform: rotate(90deg);
+	right:2%;
+	font-size: 2px;
+	position:fixed;
+	border: solid red 2px;
+	color: black;
+}
+.Text {
+	Position: Absolute;
+	Width: 500px;
+	height;200px;
+	top: 25%;
+	left: 25%;
+	background-color: White;
+	text-align: center;
+	border: red 5px solid;
+}
+
+.OK {
+	background-color: white;
+	border: 2px solid black;
+	color: red;
+}

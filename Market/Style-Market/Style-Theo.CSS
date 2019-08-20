@@ -1,0 +1,356 @@
+body {
+		
+	background-image:url('https://media.giphy.com/media/LoNQbj7Z5mNVo9mNyO/giphy.gif');
+	background-repeat: Round;
+}
+}
+.Joey {
+	position:absolute;
+	top: 3%;
+	left: 65%;
+}
+
+.Bill {
+	position:absolute;
+	top: 7%;
+	bottom: 5%;
+	left: 33%;
+}
+.Tim {
+	position:absolute;
+	top: 2%;
+	bottom: 25%;
+	left: 30%;
+}
+.Beth {
+	position:absolute;
+	top: 17%;
+	bottom: 35%;
+	left: 31%;
+}
+.Kyle {
+	Position: absolute;
+	top: 30%;
+	bottom: 5%;
+	right: 12%;
+}
+.Miguel {
+	Position: absolute;
+	top: 12%;
+	bottom: 6%;
+	right: 18%;
+}
+.Michelle {
+	Position: absolute;
+	top: 13%;
+	bottom:11 %;
+	right: 1%;
+}
+.Gabby {
+	Position: absolute;
+	top: 42%;
+	bottom: 6%;
+	right: 19%;
+}
+.Jake {
+	Position: absolute;
+	top: 6%;
+	bottom: 14%;
+	right: 37%;
+}
+.Misty {
+	Position: absolute;
+	top: 66%;
+	bottom: 12%;
+	right: 84%;
+}
+.AJ {
+	Position: absolute;
+	top: 12%;
+	bottom: 12%;
+	right: 22%;
+}
+.Stephanie {
+	Position: absolute;
+	top: 75%;
+	bottom: 3%;
+	right: 18%;
+}
+.Lex {
+	Position: absolute;
+	top: 68%;
+	bottom: 8%;
+	right: 19%;
+}
+.Gum {
+	Position: absolute;
+	top: 19%;
+	bottom: 16%;
+	right: 62%;
+}
+.Josh {
+	Position: absolute;
+	top: 42%;
+	bottom: 99%;
+	right: 12%;
+}
+.Rocky {
+	Position: absolute;
+	top: 81%;
+	bottom: 47%;
+	right: 92%;
+}
+.Grace {
+	Position: absolute;
+	top:16 %;
+	bottom: 14%;
+	right:4%;
+}
+.Sam {
+	Position: absolute;
+	top: 2%;
+	bottom: 10%;
+	right: 63%;
+}
+.Kate {
+	Position: absolute;
+	top: 25%;
+	bottom:9 %;
+	right: 3%;
+}
+.Rex {
+	Position: absolute;
+	top: 39%;
+	bottom: 35%;
+	right:44 %;
+}
+.ABC {
+	Position: absolute;
+	opacity: .3;
+	top: 7%;
+	bottom: 3%;
+	right: 6%;
+}
+.Butch {
+	Position: absolute;
+	top: 39%;
+	bottom: 46%;
+	right: 6%;
+}
+.Bruce {
+	Position: absolute;
+	top: 12%;
+	bottom: 611%;
+	right:72 %;
+}
+.James {
+	Position: absolute;
+	top: 61%;
+	bottom: 4%;
+	right: 12%;
+}
+.Enrique {
+	Position: absolute;
+	top: 51%;
+	bottom: 4%;
+	right: 51%;
+}
+.Red {
+	Position: absolute;
+	top: 32%;
+	bottom: 6%;
+	right: 65%;
+}
+.Timmy {
+	Position: absolute;
+	top: 85%;
+	bottom: 4%;
+	right: 2%;
+}
+.Isaac {
+	Position: absolute;
+	top: 30%;
+	bottom: 21%;
+	right:52%;
+}
+.Saxton {
+	Position: absolute;
+	top: 21%;
+	bottom: 23%;
+	right: 16%;
+}
+.Chance {
+	Position: absolute;
+	top: 61%;
+	bottom:49 %;
+	right: 1%;
+}
+.Pearl {
+	Position: absolute;
+	top: 19%;
+	bottom: 8%;
+	right: 66%;
+}
+.Isabelle {
+	Position: absolute;
+	top: 12%;
+	bottom: 5%;
+	right: 5%;
+}
+.Lux {
+	Position: absolute;
+	top: 17%;
+	bottom: 1%;
+	right: 17%;
+}
+.Moses {
+	Position: absolute;
+	top:93 %;
+	bottom: 2%;
+	right: 7%;
+}
+.Scarlette {
+	Position: absolute;
+	top: 13%;
+	bottom:2 %;
+	right: 36%;
+}
+.Johnny {
+	Position: absolute;
+	top:19 %;
+	bottom: 54%;
+	right: %;
+}
+.Gwen {
+	Position: absolute;
+	top: 43%;
+	bottom: 15%;
+	right:14 %;
+}
+.Ox {
+	Position: absolute;
+	top:46 %;
+	bottom: 32%;
+	right: 67%;
+}
+.Theo {
+	Position: absolute;
+	top: 32%;
+	bottom: 46%;
+	right: 07%;
+}
+.Jason {
+	Position: absolute;
+	top: 35%;
+	bottom: 65%;
+	right: 47%;
+}
+.Janis {
+	Position: absolute;
+	top: 92%;
+	bottom: 1%;
+	right: 53%;
+}
+.Levi {
+	Position: absolute;
+	top: 15%;
+	bottom:6 %;
+	right:65 %;
+}
+.Anwen {
+	Position: absolute;
+	top: 14%;
+	bottom: 3%;
+	right: 15%;
+}
+.Riley {
+	Position: absolute;
+	top: 57%;
+	bottom: 4%;
+	right: 57%;
+}
+.Cherry {
+	Position: absolute;
+	top: 15%;
+	bottom: 5%;
+	right: 3%;
+}
+.Sienna {
+	Position: absolute;
+	top: 54%;
+	bottom: 3%;
+	right: 19%;
+}
+.Maja {
+	Position: absolute;
+	top: 71%;
+	bottom: 34%;
+	right: 1%;
+}
+
+.Yahna {
+	Position: absolute;
+	top: 14%;
+	bottom: 17%;
+	right: 72%;
+}
+.Malik {
+	Position: absolute;
+	top: 14%;
+	bottom: 41%;
+	right: 43%;
+}
+.Clay {
+	Position: absolute;
+	top: 5%;
+	bottom: 23%;
+	right: 90%;
+}
+.Louis {
+	Position: absolute;
+	top: 14%;
+	bottom: 63%;
+	right: 44%;
+}
+.Evie {
+	Position: absolute;
+	top: 77%;
+	bottom: 12%;
+	right: 53%;
+}
+.An {
+	Position: absolute;
+	top: 22%;
+	bottom:32 %;
+	right: 22%;
+}
+.Taliyah {
+	Position: absolute;
+	top: 17%;
+	bottom: 42%;
+	right: 18%;
+}
+
+.ABC
+{ Position: absolute;
+	top: 19%;
+	bottom: 23%;
+	right: 13%;
+	opacity: .7;
+}
+.Text {
+	Position: Absolute;
+	Width: 500px;
+	height;200px;
+	top: 25%;
+	left: 25%;
+	background-color: White;
+	text-align: center;
+	border: red 5px solid;
+}
+
+.OK {
+	background-color: white;
+	border: 2px solid black;
+	color: red;
+}

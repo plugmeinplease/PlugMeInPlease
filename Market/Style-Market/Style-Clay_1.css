@@ -1,0 +1,88 @@
+body {
+	background-color: #C0FDFB;
+	color: #04080F;
+	padding:2px;
+	border: dotted #F72E85 3px;
+	border-radius: 9px;
+}
+
+.Contact {
+	
+	border: dotted 1px red;
+	height: 30 px;
+	width: 50%;
+	position: relative;
+	top: 90%;
+	left: 25%;
+	right: 25%;
+}
+.projects {
+	height: 450px;
+	width: 120px;
+	border: white 2px solid;
+	margin: 5px;
+	padding: 8px;
+	position: relative;
+	background-color: #F5B700;
+	
+}
+/* Effects list */
+.Effects {
+		display: block;
+	width: 500 px;
+	height: 500 px;
+	background-color: black;
+	color: pink;
+	border: 3px solid #77f442;
+}
+/*Tips List */
+.Shortcuts {
+	display: block;
+	color: #77f442;
+	width: 250 px;
+	height: 500 px;
+	background-color: black;
+	border: 3px solid pink;
+}
+.MachineHead {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border: pink 2px solid;
+  background-color: #77f442;
+}
+
+.Maple {
+	height: 50%;
+	width: 50%;
+	border: pink 2px solid;
+	margin: 5px;
+	padding: 8px;
+	position: relative;
+	background-color: #77f442;
+}
+.Sign {
+	height: 25%;
+	width: 25%;
+	border: pink 2px solid;
+	margin: 5px;
+	padding: 8px;
+	position: relative;
+	background-color: #77f442
+}
+.Sign_2{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border: pink 2px solid;
+  background-color: #77f442;
+	
+}
+.Audacity {
+	Color: #F72E85
+}
+.Link:hover {
+	color: pink;
+}

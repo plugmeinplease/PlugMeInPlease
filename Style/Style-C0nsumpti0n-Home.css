@@ -1,0 +1,22 @@
+.c0nsumpti0n{
+	text-align: center;
+	color: blue;
+	size: 35px;
+.c0nsumpti0n:hover {
+	color:red;
+}
+}
+body {
+
+	
+	background-image:url('https://i.imgur.com/sxAIVDY.jpg');
+	background-repeat: repeat;
+}
+
+.Audio {
+	opacity: .5;
+	position:fixed;
+	left: 45%;
+	right: 25%;
+	top: 65%;
+}

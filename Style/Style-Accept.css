@@ -1,0 +1,41 @@
+body {
+	background-color: #1B1B1B;
+	color:white;
+	padding:2px;
+	border: solid #70D631 3px;
+	border-radius: 9px;
+}
+.Micky {
+	border-radius: 50%;
+	border: solid white 6px;
+}
+
+/*Chatroom*/
+.Chatroom {
+
+}
+.Name {
+	position:absolute;
+	height: 100px;
+	width: 150px;
+	top: .1%;
+	bottom: 5%;
+	left: 50%;
+	padding: 2px;
+	margin-top: 15px;
+	margin-left: 0px;
+
+}
+.Text {
+	position:absolute;
+	height: 100px;
+	width: 150px;
+	top: .1%;
+	bottom: 5%;
+	left: 23%;
+	background-color: #70D631;
+	padding: 2px;
+	margin-top: 15px;
+	margin-left: 0px;
+	border: 3px solid white;
+}

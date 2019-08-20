@@ -1,0 +1,41 @@
+<!doctype HTML>
+<html>
+	<head>
+		<title>Follow a wall to get back home</title>
+		<link href="../Style/Style-Labrynth.css" type ="text/css" rel="stylesheet">
+	</head>
+	<body>
+		<p class="Text"> 
+			There is a small door. When you knock on it you hear a barely audible reply from the other side: <br>
+			
+			???: What's the Password?
+			<a href="../Labrynth.html" class="OK"> OK </a>
+		</p> 
+		<SCRIPT>
+function passWord() {
+var testV = 1;
+var pass1 = prompt('Please Enter The Password',' ');
+while (testV < 3) {
+if (!pass1) 
+history.go(-1);
+if (pass1.toLowerCase() == "01368") {
+alert('Ok come on in, ill brew us some tea');
+window.open('../labrynth_Code.html');
+break;
+} 
+testV+=1;
+var pass1 = 
+prompt('Wrong. Go away.','Password');
+}
+if (pass1.toLowerCase()!="password" & testV ==3) 
+history.go(-1);
+return " ";
+} 
+</SCRIPT>
+<CENTER>
+<FORM>
+<input type="button" value="Enter Protected Area" onClick="passWord()">
+</FORM>
+</CENTER>
+	</body>
+</html>
