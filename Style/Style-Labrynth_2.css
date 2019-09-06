@@ -285,3 +285,15 @@ body {
 .Code:hover {
 	color:red;
 }
+
+.Plant_1  {
+	Position: Relative;
+	top: 315px;
+	left: 33.3%;
+	color: :#70D631;
+}
+
+
+.Plant_1:hover {
+	color: black;
+}
