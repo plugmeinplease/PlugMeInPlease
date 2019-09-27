@@ -4,7 +4,7 @@ body {
 }
 
 .Start {
-	Position: Absolute;
+	Position: Relative;
 	left: 32px;
 	width: 50px;
 	top:0px;
@@ -18,7 +18,7 @@ body {
 }
 /*Ladder */
 .Ladder {
-	Position: Absolute;
+	Position: Relative;
 	top: 463px;
 	left: 18%;
 	color: black;
