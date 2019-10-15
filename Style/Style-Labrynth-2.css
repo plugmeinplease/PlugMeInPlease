@@ -299,6 +299,21 @@ body {
 }
 
 .Plant_1_Img {
-	width: 45%;
-	height: 45%;
+	width: 55%;
+	height: 55%;
 	border: solid black 3px;
+	
+.Water {
+	Position: Relative;
+	top: 415px;
+	left:66%;
+	color: #70D631;
+	}
+.Water:hover {
+	color: black;
+	}
+.Water_Img {
+	width: 55%;
+	height: 55%;
+	border: solid black 3px;
+	}
