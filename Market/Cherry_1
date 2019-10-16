@@ -1,0 +1,224 @@
+<!DOCTYPE HTML>
+	<HTML>
+		<head>
+
+			<title>A desire for an online presence</title>
+			<link href="Style-Market/Style-Market.css" type ="text/css" rel="stylesheet">
+		</head>
+		
+		<body>
+		<!-- Joey: Looses his dog Spot!-->
+			<a href="Joey_1.html" class="Joey">
+				<img src="https://i.imgur.com/sWzTuZl.jpg" title="Hi I'm Joey!">
+			</a>
+		<!-- Bill -->
+			<a href="Bill_1.html" class="Bill">
+				<img src="https://i.imgur.com/vkbXQdO.jpg" title="You better get out of my face punk!!!">
+			</a>	
+		<!-- Tim -->
+			<a href="Tim_1.html" class="Tim">
+				<img src="https://i.imgur.com/rMzD8SX.jpg" title="Sometimes I wish I could cry but I can't">
+			</a>	
+		<!-- Beth -->
+			<a href="Beth_1.html" class = "Beth">
+				<img src="https://i.imgur.com/JHAejam.jpg" title="Do you ever ride the bus just to see where you end up?">
+			</a>	
+		<!-- Kyle -->
+			<a href="Kyle_1.html" class = "Kyle">
+				<img src="https://i.imgur.com/YsvpN8N.jpg" title="I'm a simple man">
+			</a>	
+		<!-- Miguel: Michelle's Husband		-->
+			<a href="Miguel_1.html" class = "Miguel">
+				<img src="https://i.imgur.com/rvuHBMP.jpg" title="I'm looking for a present to buy my wife Michelle!">
+			</a>	
+		<!-- Michelle:  Miguel's Wife -->
+			<a href="Michelle_1.html" class = "Michelle">
+				<img src="https://i.imgur.com/odzEsoK.jpg" title="Um do I know you?">
+			</a>										
+		<!-- Gabby -->
+			<a href="Gabby_1.html" class = "Gabby">
+				<img src="https://i.imgur.com/fiUgkeE.jpg" title="I'm new in town do you know anything fun to do around here?">
+			</a>	
+		<!-- Jake -->
+			<a href="Jake_1.html" class = "Jake">
+				<img src="https://i.imgur.com/STVUx0M.jpg" title="I'm so desperate for cash....">
+			</a>	
+		<!-- Misty -->
+			<a href="Misty_1.html" class = "Misty">
+				<img src="https://i.imgur.com/scaIEOn.jpg" title="Sorry I can't talk right now I'm kinda overwhelmed....">
+			</a>	
+		<!-- AJ: Music Plug -->
+			<a href="AJ_1.html" class = "AJ">
+				<img src="https://i.imgur.com/AvOpZ31.jpg" title="Yo i'm AJ keep checking in for my upcoming mix">
+			</a>										
+		<!-- Stephanie : "I Sure do Miss Alex-->
+			<a href="Stephanie_1.html" class = "Stephanie">
+				<img src="https://i.imgur.com/AqkFCTV.jpg" title="...">
+			</a>	
+		<!-- Lex -->
+			<a href="Lex_1.html" class = "Lex">
+				<img src="https://i.imgur.com/tESeh91.jpg" title="I'm kinda hungry">
+			</a>	
+		<!-- Gum -->
+			<a href="Gum_1.html" class = "Gum">
+				<img src="https://i.imgur.com/1Ikz2Ks.jpg" title="I'm technically a Pisces but I identify more strongly as a Gemini">
+			</a>	
+		<!-- Josh: Stressed out by his phone -->
+			<a href="Josh_1.html" class = "Josh">
+				<img src="https://i.imgur.com/gH2qCRK.jpg" title="My phone seriously stresses me out">
+			</a>										
+		<!-- Rocky: Doesn't like his name -->
+			<a href="Rocky_1.html" class = "Rocky">
+				<img src="https://i.imgur.com/xCseiFg.jpg" title="I can't believe my parents named me Rocky...">
+			</a>	
+		<!-- Grace: Overwhelmed with the world -->
+			<a href="Grace_1.html" class = "Grace">
+				<img src="https://i.imgur.com/RA3gzaB.jpg" title="This world can be kinda overwhelming sometimes...">
+			</a>	
+		<!-- Sam: Loves Biking -->
+			<a href="Sam_1.html" class = "Sam">
+				<img src="https://i.imgur.com/Q5P6aAM.jpg" title="Wow I love biking so much it's unbelievable....">
+			</a>	
+		<!-- Kate: Wants to travel -->
+			<a href="Kate_1.html" class = "Kate">
+				<img src="https://i.imgur.com/Q5P6aAM.jpg" title="I wanna go see the world">
+			</a>										
+		<!-- Rex -->
+			<a href="Rex_1.html" class = "Rex">
+				<img src="https://i.imgur.com/xMVqkRT.jpg" title="Do you ever have no energy to do the things you love?">
+			</a>																								
+		<!-- Butch: Best deals in town! -->
+			<a href="Butch_1.html" class = "Butch">
+				<img src="https://i.imgur.com/Gci4IIh.jpg" title="Best deals in town!">
+			</a>				
+		<!-- Bruce: Jame's Husband -->
+			<a href="Bruce_1.html" class = "Bruce">
+				<img src="https://i.imgur.com/HHkKfvW.jpg" title="Oh my god he drowned today.">
+			</a>				
+		<!-- James: Bruce's Husband -->
+			<a href="James_1.html" class = "James">
+				<img src="https://i.imgur.com/HHkKfvW.jpg" title="Please leave bruce alone he is very upset">
+			</a>		
+		<!-- Enrique: Is lonely -->
+			<a href="Enrique_1.html" class = "Enrique">
+				<img src="https://i.imgur.com/HHkKfvW.jpg" title="Hey wait can you talk for a sec?">
+			</a>	
+		<!-- Red:Loves $$$$ -->
+			<a href="Red_1.html" class = "Red">
+				<img src="https://i.imgur.com/gdmiYna.jpg" title="If you ain't rich you ain't nothing">
+			</a>																									
+		<!-- Timmy: AGE 5 -->
+			<a href="Timmy_1.html" class = "Timmy">
+				<img src="https://i.imgur.com/7dk3hcm.jpg" title="Try to guess what number I'm thinking of!">
+			</a>				
+		<!-- Isaac -->
+			<a href="Isaac_2.html" class = "Isaac">
+								<img src="https://i.imgur.com/hGu4yxD.jpg" title="How are all these people so god damn happy? Look around. They are all fucking loosers. Nothing driving them. No passion; they just waste away their brain with garbage to pass the hours. The satisfaction of dopamine flooding into their miniscule receptors is absolutely pathetic. They enjoy nothing of value. They c0nsume endlessly. They never tire or grow satisfied. In fact, just the inverse is true. As they devour more, their appitite increases exponentially. The ability to maintain focus diminishes, and the cycle is repeated until the next pieceof trash attracts their bug-like attention span. Nothing is ever accomplished, we are c0nsuming ourselves.">
+		<!-- Saxton: Likes Haikus -->
+			<a href="Saxton_1.html" class = "Saxton">
+				<img src="https://i.imgur.com/PLDPcOp.jpg" title="Sometimes I can't sleep. My never ending anguish. Mind, Body, Soul; C0nsumed.">
+			</a>				
+		<!-- Chance: Is seeing things -->
+			<a href="Chance_1.html" class = "Chance">
+				<img src="https://i.imgur.com/S6WzgiB.jpg" title="I'm not crazy I swear!">
+			</a>	
+		<!-- Pearl: Has Knowledge -->
+			<a href="Pearl_1.html" class = "Pearl">
+				<img src="https://i.imgur.com/0SfjKLW.jpg" title="Come see me if you need anything hun'">
+			</a>																									
+		<!-- Isabelle -->
+			<a href=".html" class = "Isabelle">
+				<img src="https://i.imgur.com/mfejssX.jpg" title="A key closes more often than it opens">
+			</a>				
+		<!-- Lux -->
+			<a href="Lux_1.html" class = "Lux">
+				<img src="https://i.imgur.com/xD3VnIw.jpg" title="I've had too much coffee today and i'm wiggin'">
+			</a>				
+		<!-- Moses -->
+			<a href="Moses_1.html" class = "Moses">
+				<img src="https://i.imgur.com/svsfJYU.jpg" title="What are your hobbies?">
+			</a>				
+		<!-- Scarlette -->
+			<a href="Scarlette_1.html" class = "Scarlette">
+				<img src="https://i.imgur.com/rwtySZ8.jpg" title="All I fear is being missunderstood">
+			</a>	
+		<!-- Johnny: Salesman -->
+			<a href=".html" class = "Johnny">
+				<img src="https://i.imgur.com/R4RYB9i.jpg" title="I can get you anything you need pal'">
+			</a>																									
+		<!-- Gwen -->
+			<a href="Gwen_1.html" class = "Gwen">
+				<img src="https://i.imgur.com/djDbYNE.jpg" title="This body is a prison">
+			</a>				
+		<!-- Ox -->
+			<a href=".html" class = "Ox">
+				<img src="https://i.imgur.com/zouy5xP.jpg" title="Where the parties at?">
+			</a>				
+		<!-- Theo: Spits you into Source code.JPG		-->
+			<a href="Theo_1.html" class = "Theo">
+				<img src="https://i.imgur.com/STpNNAB.jpg" title="I don't feel so good.....">
+			</a>				
+		<!-- Jason -->
+			<a href="Jason_1.html" class = "Jason">
+				<img src="https://i.imgur.com/1zEYwUn.jpg" title="Help have you found a way out of here yet?">
+			</a>	
+		<!-- Janis -->
+			<a href="Janis_1.html" class = "Janis">
+				<img src="https://i.imgur.com/V2BJspl.jpg" title="He was taken too soon... You will not be forgotten.">
+			</a>																									
+		<!-- Levi -->
+			<a href="Levi_1.html" class = "Levi">
+				<img src="https://i.imgur.com/DHARggy.jpg" title="">
+			</a>				
+		<!-- Anwen -->
+			<a href="Anwen_1.html" class = "Anwen">
+				<img src="https://i.imgur.com/pki7t6G.jpg" title="">
+			</a>				
+		<!-- Riley -->
+			<a href="Riley_1.html" class = "Riley">
+				<img src="https://i.imgur.com/TsMWOAR.jpg" title="">
+			</a>		
+		<!-- Cherry -->
+			<a href="../Labels-Home.html" class = "Cherry">
+				<img src="https://i.imgur.com/NCWBgpC.jpg" title="If you're looking for some good traxxx i'm your gal' <3">
+			</a>																									
+		<!-- Sienna -->
+			<a href="Sienna_1.html" class = "Sienna">
+				<img src="https://i.imgur.com/8TOYGRJ.jpg" title="">
+			</a>				
+		<!-- Maja -->
+			<a href="Maja_1.html" class = "Maja">
+				<img src="https://i.imgur.com/DH2NfaB.jpg" title="">
+			</a>				
+		<!-- Yahna -->
+			<a href="Yahna_1.html" class = "Yahna">
+				<img src="https://i.imgur.com/SmkNWas.jpg" title="">
+			</a>				
+		<!-- Malik -->
+			<a href="Malik_1.html" class = "Malik">
+				<img src="https://i.imgur.com/x5uauK1.jpg" title="">
+			</a>	
+		<!-- Clay -->
+			<a href="Clay_1.html" class = "Clay">
+				<img src="https://i.imgur.com/nyIbHDX.jpg" title="">
+			</a>																									
+		<!-- Louis -->
+			<a href="Louis_1.html" class = "Louis">
+				<img src="https://i.imgur.com/Cnkzynt.jpg" title="">
+			</a>				
+		<!-- Evie -->
+			<a href="Evie_1.html" class = "Evie">
+				<img src="https://i.imgur.com/RSeR107.jpg" title="">
+			</a>				
+		<!-- Armin -->
+			<a href="Armin_1.html" class = "Armin">
+				<img src="https://i.imgur.com/sAPnMHJ.jpg" title="I dream of going to the ocean">
+			</a>	
+		<!-- Taliyah -->
+			<a href="Taliyah_1.html" class = "Taliyah">
+				<img src="https://i.imgur.com/Cpg2RVV.jpg" title="">
+			</a>								
+		</body>
+				
+	
+	</HTML>
