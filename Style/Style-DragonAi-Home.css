@@ -131,3 +131,11 @@ body {
 .Golem {
 	width: 90%;
 }
+
+.Stickers {
+	.LinksGreen{
+	color: #70D631;
+}
+.Stickers:hover{
+	color:#D72BD3;
+}
